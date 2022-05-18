@@ -1,0 +1,22 @@
+{
+  "name": "new-social-media",
+  "version": "1.0.0",
+  "description": "MERN Shopping Cart App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackisbackpdx/MERN-Ecommerce.git"
+  },
+  "author": "Jackson Kelley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackisbackpdx/MERN-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/jackisbackpdx/MERN-Ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
